@@ -1,0 +1,26 @@
+[
+    {
+        "category": "fundamental constant",
+        "name": "Постоянная Планка",
+        "designation": "h",
+        "formula": "h = h/2pi",
+        "value": "6,626&#160;070&#160;15⋅10<sup>−34</sup>",
+        "measurement units": "Дж/с",
+        "description": "квант действия",
+        "history": "",
+        "loсal_link": " ",
+        "URL": " "
+    },
+    {
+        "category": "fundamental constant",
+        "name": "Диэлектрическая проницаемость вакуума",
+        "designation": "$|epsilon$",
+        "formula": "eps = h/2pi",
+        "value": "8<sup>−34</sup>",
+        "measurement units": "Дж",
+        "description": "Херня",
+        "history": "",
+        "loсal_link": " ",
+        "URL": " "
+    }
+]
