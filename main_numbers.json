@@ -1,26 +1,58 @@
 [
-    {
+    {   "name": "Постоянная Планка",
         "category": "fundamental constant",
-        "name": "Постоянная Планка",
-        "designation": "h",
         "formula": "h = h/2pi",
         "value": "6,626&#160;070&#160;15⋅10<sup>−34</sup>",
         "measurement units": "Дж/с",
         "description": "квант действия",
         "history": "",
         "loсal_link": " ",
-        "URL": " "
+        "URL": " ",
+        "tag": " "
     },
-    {
+    {   "name": "Диэлектрическая проницаемость вакуума",
         "category": "fundamental constant",
-        "name": "Диэлектрическая проницаемость вакуума",
-        "designation": "$|epsilon$",
         "formula": "eps = h/2pi",
         "value": "8<sup>−34</sup>",
         "measurement units": "Дж",
         "description": "Херня",
         "history": "",
         "loсal_link": " ",
-        "URL": " "
+        "URL": " ",
+        "tag": " "
+    },
+    {   "name": "Гравитационная постоянная",
+        "category": "fundamental constant",
+        "formula": "eps = h/2pi",
+        "value": "6,674 30(15)⋅10<sup>−11</sup>",
+        "measurement units": "м<sup>3</sup>·кг<sup>−1</sup>·с<sup>−2</sup>",
+        "description": "",
+        "history": "",
+        "loсal_link": " ",
+        "URL": " ",
+        "tag": " "
+    },
+    {   "name": "Элементарный заряд",
+        "category": "fundamental constant",
+        "formula": "e",
+        "value": "1,602 176 634⋅10<sup>−19</sup>",
+        "measurement units": "Кл",
+        "description": "",
+        "history": "",
+        "loсal_link": " ",
+        "URL": " ",
+        "tag": " "
+    },
+    {   "name": "Постоянная Больцмана",
+        "category": "fundamental constant",
+        "designation": "k",
+        "formula": "eps = h/2pi",
+        "value": "1,380 649⋅10<sup>−23</sup>",
+        "measurement units": "Дж·К<sup>−1</sup>",
+        "description": "",
+        "history": "",
+        "loсal_link": " ",
+        "URL": " ",
+        "tag": " "
     }
 ]
