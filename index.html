@@ -1,50 +1,285 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+        <head>
+          <meta charset="utf-8" />
+          <meta name="generator" content="pandoc" />
+          <meta name="viewport" content="width = device-width*1.5, initial-scale=1.0, user-scalable=yes" />
+          <title>STUDY</title>
+          <style>
+            html {
+              line-height: 1.5;
+              font-family: Georgia, serif;
+              font-size: 20px;
+              color: #1a1a1a;
+              background-color: #ffffff;
+            }
+            body {
+              margin: 0 auto;
+              max-width: 65%;
+              padding-left: 50px;
+              padding-right: 50px;
+              padding-top: 50px;
+              padding-bottom: 50px;
+              hyphens: auto;
+              overflow-wrap: break-word;
+              text-rendering: optimizeLegibility;
+              font-kerning: normal;
+            }
+            @media (max-width: 65%) {
+              body {
+                font-size: 0.9em;
+                padding: 1em;
+              }
+              h1 {
+                font-size: 1.8em;
+              }
+            }
+            @media print {
+              body {
+                background-color: transparent;
+                color: black;
+                font-size: 12pt;
+              }
+              p, h2, h3 {
+                orphans: 3;
+                widows: 3;
+              }
+              h2, h3, h4 {
+                page-break-after: avoid;
+              }
+            }
+            p {
+              margin: 1em 0;
+            }
+            a {
+              color: #1a1a1a;
+            }
+            a:visited {
+              color: #1a1a1a;
+            }
+            img {
+              max-width: 100%;
+            }
+            h1, h2, h3, h4, h5, h6 {
+              margin-top: 1.4em;
+            }
+            h5, h6 {
+              font-size: 1em;
+              font-style: italic;
+            }
+            h6 {
+              font-weight: normal;
+            }
+            ol, ul {
+              padding-left: 1.7em;
+              margin-top: 1em;
+            }
+            li > ol, li > ul {
+              margin-top: 0;
+            }
+            blockquote {
+              margin: 1em 0 1em 1.7em;
+              padding-left: 1em;
+              border-left: 2px solid #e6e6e6;
+              color: #606060;
+            }
+            code {
+              font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+              font-size: 85%;
+              margin: 0;
+            }
+            pre {
+              margin: 1em 0;
+              overflow: auto;
+            }
+            pre code {
+              padding: 0;
+              overflow: visible;
+              overflow-wrap: normal;
+            }
+            .sourceCode {
+             background-color: transparent;
+             overflow: visible;
+            }
+            hr {
+              background-color: #1a1a1a;
+              border: none;
+              height: 1px;
+              margin: 1em 0;
+            }
+            table {
+              margin: 1em 0;
+              border-collapse: collapse;
+              /* border: 1px solid; */
+              width: 100%;
+              tr:hover {background-color: #d9d9dfe8;}
+              
+              /* overflow-x: auto;
+              display: block; */
+              font-variant-numeric: lining-nums tabular-nums;
+              background-color: #ffffff;
+            }
+            tr {
+                border-bottom: 1px solid #ffffff;
+            }
+            thead th:nth-child(1) {
+                width: 100%;
+            }
+
+            table caption {
+              margin-bottom: 0.75em;
+            }
+            tbody {
+              margin-top: 0.5em;
+              /* border-top: 1px solid #1a1a1a;
+              border-bottom: 1px solid #1a1a1a; */
+            }
+            th {
+              /* border-top: 1px solid #000dff; */
+              border: 2px solid green; /* Рамка вокруг ячеек */
+              padding: 0.45em 0.5em 0.25em 0.5em;
+            } */
+            td {
+              padding: 0.425em 0.5em 0.25em 0.5em;
+              border: 2px solid green; /* Рамка вокруг ячеек */
+            } 
+
+            header {
+              margin-bottom: 4em;
+              text-align: center;
+            }
+            #TOC li {
+              list-style: none;
+            }
+            #TOC ul {
+              padding-left: 1.3em;
+            }
+            #TOC > ul {
+              padding-left: 0;
+            }
+            #TOC a:not(:hover) {
+              text-decoration: none;
+            }
+            code{white-space: pre-wrap;}
+            span.smallcaps{font-variant: small-caps;}
+            div.columns{display: flex; gap: min(4vw, 1.5em);}
+            div.column{flex: auto; overflow-x: auto;}
+            div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+            ul.task-list{list-style: none;}
+            ul.task-list li input[type="checkbox"] {
+              width: 0.8em;
+              margin: 0 0.8em 0.2em -1.6em;
+              vertical-align: middle;
+            }
+          </style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Cube </title>
+    <link rel = "stylesheet" href = "./css/main.css">
+</head>
 <body>
-<font face="Trebuchet MS"     line-height: 5>
+    <div class="wrap"></div>
+    <header class = "header">
+        <div class = "container">
+            <div class = "header-row">
+                <!-- <img src ="./img/header_img.jpeg" srcset ="./img/header_img.jpeg 2x"  alt ="Photo" class = "header-img"> -->
+                <div class="header-desc">
+                    <h1 class = "header-title"> Какой-то мой шикарный текст!</h1>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- <button onclick="console.log('Hey')">Try it</button> -->
+    <script>
+        function fetchJSONData() {
+            fetch("https://anelisph.github.io/WEB/generated.json")
+                .then((res) => {
+                    if (!res.ok) {
+                        throw new Error
+                            (`HTTP error! Status: ${res.status}`);
+                    }
+                    return res.json();
+                })
+                .then((data) =>
+                    console.log(data)
+                .catch((error) =>
+                    console.error("Unable to fetch data:", error)));
+                
+        }
+        function populateHeader(jsonObj) {
+            var header = document.querySelector("header");
+            var myH1 = document.createElement("h1");
+            var myPara = document.createElement("p");
+            myPara.textContent =
+                "Hometown: " + jsonObj[0]['name'];
+            header.appendChild(myPara);
+        }
 
-<h2>Максим Горький</h2>
+        function tabCreate(json_obj) {
+            const num_of_columns = 5
+            // const body = document.body,
+            //         tbl = document.createElement('table');
+            // tbl.style.width = '100%';
+            // tbl.style.border = '1px solid black';
+            // Find a <table> element with id="myTable":
+            const body = document.body,
+                table = document.createElement('table');
 
-<ul>
-  <li><a href="https://anelisph.github.io/WEB/gork.html"> Поэма "Человек" </a></li>
-</ul>  
-<ul>
-  <li><a href="https://anelisph.github.io/WEB/vertopal.com_main.html"> Melnikov's notes</a></li>
-</ul>  
-  <ul>
-  <li><a href="https://anelisph.github.io/WEB/test_wiki.html"> Rashba effect</a></li>
-</ul>  
-  <ul>
-  <li><a href="https://anelisph.github.io/WEB/wiki_tex_frankenstein.html"> Rashba effect BEAUTY</a></li>
-</ul> 
-    <ul>
-  <li><a href="https://anelisph.github.io/WEB/fund_const.html"> Rashba effect BEAUTY</a></li>
-</ul> 
-<h2>Борис Пастенак</h2>
-<form>
-  <label>Введите имя</label>
-  <input type="text">
-</form>
-<p>Перед скриптом...</p>
-<script src="WEB/main.js"></script>
-<script>
-  alert( 'Привет, мир!' );
-</script>
+            // Create an empty <thead> element and add it to the table:
+            var header = table.createTHead();
 
-<p>...После скрипта.</p>
+            // Create an empty <tr> element and add it to the first position of <thead>:
+            var row = header.insertRow(0);
+            array_of_headers = ["Величина", "Формула", 'Значение', "Размерность", "Примечание"] 
+            json_keys = ['name', 'formula', 'value',  'measurement units', 'description'
+            ]   
+            for (let i = 0; i < num_of_columns; i++) {
+            // Insert a new cell (<td>) at the first position of the "new" <tr> element:
+                var cell = row.insertCell(0);
+                cell.innerHTML = `<b>${array_of_headers[i]}</b>`//"<b>This is</b>";
+            }
 
-<ul>
-  <li><a href="https://anelisph.github.io/WEB/past14.html"> 14 Август, из сборника доктора Живаго</a></li>
-  <li><a href="https://anelisph.github.io/WEB/pasternak.html"> Отрывок из романа "Доктор Живаго"</a></li>
-  <li><a href="https://anelisph.github.io/WEB/report_field_effect.pdf"> Отрывок из романа FIELD EFFECT</a></li>
-</ul> 
+            // Add some bold text in the new cell:
+            
 
-<form>
-  <input type="text">
-</form>
+            for (let i = 0; i < Object.keys(json_obj).length; i++) {
+                const tr = table.insertRow();
+                for (let j = 0; j < num_of_columns; j++) {
+                    const td = tr.insertCell();
+                    td.innerHTML = `${json_obj[i][json_keys[j]]}`//appendChild(document.createTextNode(`${json_obj[i][json_keys[j]]}`));
+                    // td.style.border = '1px solid black';
+                    // if (i === 1 && j === 1) {
+                    // td.setAttribute('rowSpan', '2');
+                    // // if (i === 2 && j === 1) {
+                    // //     break;
+                    // } else {
+                    //     const td = tr.insertCell();
+                    //     td.appendChild(document.createTextNode(`${json_obj[i]['name']}`));
+                    //     td.style.border = '1px solid black';
+                    //     if (i === 1 && j === 1) {
+                    //     td.setAttribute('rowSpan', '2');
+                    //     }
+                    }
+                }
+                body.appendChild(table);
+            }
+            
+            
+        var requestURL = "https://anelisph.github.io/WEB/main_numbers.json"
+        var request = new XMLHttpRequest();
+        request.open("GET", requestURL);
+        request.responseType = "json";
+        request.send();
+        request.onload = function () {
+        var superHeroes = request.response;
+        populateHeader(superHeroes);
+        console.log(superHeroes[0]['name'])
+        tabCreate(superHeroes);
+        };
+    </script>
+    
 
-</font>
 </body>
 </html>
-
-
