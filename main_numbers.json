@@ -53,16 +53,5 @@
         "loсal_link": " ",
         "URL": " ",
         "tag": " "
-    },
-    {   "name": "Диэлектрическая проницаемость вакуума",
-        "category": "fundamental constant",
-        "formula": "{varepsilon _{0}=1/(mu _{0}c^{2})}",
-        "value": "8,854 187 8188(14)⋅10<sup>−12</sup> ",
-        "measurement units": "Ф·м<sup>−1</sup>",
-        "description": "",
-        "history": "",
-        "loсal_link": " ",
-        "URL": " ",
-        "tag": " "
     }
 ]
