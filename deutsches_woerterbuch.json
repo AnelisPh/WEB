@@ -5,7 +5,7 @@
         "uebersetzung": "судьба",
         "beispiels":[{"bei": "Apostel erwartet gewöhnlich das gleiche Schicksal wie die Märtyrer.", "ueb": "Апостолов, как правило, ожидает такая же участь, что и мучеников."},
                                             ]
-        "thema": " ",
+        "thema": " "
     },
     {    "wort": "Vorrang",
         "wortart": "Nomen",
@@ -13,6 +13,6 @@
         "uebersetzung": "приоритет",
         "beispiels":[{"bei": "Sie will wissen, dass - seine Ehe für ihn von Vorrang ist.", "ueb": "Она хочет знать, что - его брак - приоритет для него."},
                                             ]
-        "thema": " ",   
+        "thema": " "   
     }
 ]
