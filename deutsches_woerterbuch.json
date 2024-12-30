@@ -1,0 +1,18 @@
+[
+    {   "wort": " ",
+        "uebersetzung": " ",
+        "beispile": " ",
+        "thema": " ",
+    },
+    {   "name": "Диэлектрическая проницаемость вакуума",
+        "category": "fundamental constant",
+        "formula": "eps = h/2pi",
+        "value": "8<sup>−34</sup>",
+        "measurement units": "Дж",
+        "description": "",
+        "history": "",
+        "loсal_link": " ",
+        "URL": " ",
+        "tag": " "
+    }
+]
