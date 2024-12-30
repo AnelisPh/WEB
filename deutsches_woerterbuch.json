@@ -7,13 +7,12 @@
                                             ]
         "thema": " ",
     },
-        "wort": "Vorrang",
+    {    "wort": "Vorrang",
         "wortart": "Nomen",
         "artikel": "der",
         "uebersetzung": "приоритет",
         "beispiels":[{"bei": "Sie will wissen, dass - seine Ehe für ihn von Vorrang ist.", "ueb": "Она хочет знать, что - его брак - приоритет для него."},
                                             ]
-        "thema": " ",
-    {   
+        "thema": " ",   
     }
 ]
