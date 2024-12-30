@@ -3,8 +3,8 @@
         "wortart": "Nomen",
         "artikel": "das",
         "uebersetzung": "судьба",
-        "beispiels":[{"bei": "Apostel erwartet gewöhnlich das gleiche Schicksal wie die Märtyrer.", "ueb": " kkk"},
-                     {"bei": "Akjhkj", "ueb": " kllllll"}],
+        "beispiels":[{"bei": "Apostel erwartet gewöhnlich das gleiche Schicksal wie die Märtyrer.", "ueb": "Апостолов, как правило, ожидает такая же участь, что и мучеников."},
+                     {"bei": "Meine Bestimmung, mein schicksal wurden mir ploetzlich offenbart.", "ueb": " Моё предназначение, моя судьба вдруг открылись мне."}],
         "thema": "-"
     },
     {    "wort": "Vorrang",
