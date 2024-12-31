@@ -14,5 +14,34 @@
         "beispiels": [{"bei": "Sie will wissen, dass - seine Ehe für ihn von Vorrang ist.", "ueb": " kkk"},
                       {"bei": "Akjhkj", "ueb": " kllllll"}],
         "thema": "-"   
+    },
+    {   "wort": "besheiden",
+        "wortart": "Adjektiv",
+        "artikel": "-",
+        "uebersetzung": "скромный",
+        "beispiels":[{"bei": "-", "ueb": "-"}],
+        "thema": "-"
+    },
+    {   "wort": "Hoffart",
+        "wortart": "Nomen",
+        "artikel": "die",
+        "uebersetzung": "тщеславие, высокомерие",
+        "beispiels":[{"bei": "-", "ueb": "-"}                     ],
+        "thema": "-"
+    },
+    {   "wort": "Aufstieg",
+        "wortart": "Nomen",
+        "artikel": "der",
+        "uebersetzung": "рост, восхождение",
+        "beispiels":[{"bei": "Das Team setzte seinen Aufstieg weiter fort und kurz darauf wurde der Regen zu Schnee.", "ueb": "Команда продолжает подъём, и вскоре дождь сменяется снегом."},
+                     {"bei": "In eben diesem saal wird mein Traum, mein Aufstieg zur Macht, Wirklichkeit werden.", "ueb": "Вот в этом зале осуществится моя мечта, мое восхождение к власти станет действительностью."}],
+        "thema": "-"
+    },
+    { "wort": "verblendet",
+        "wortart": "Nomen",
+        "artikel": "das",
+        "uebersetzung": "слепо, обманут, заблуждается",
+        "beispiels":[{"bei": "Dann sind sie wirklich verblendet.", "ueb": "Тогда ты серьезно заблуждаешься."}],
+        "thema": "-"
     }
 ]
