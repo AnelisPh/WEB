@@ -43,5 +43,30 @@
         "uebersetzung": "слепо, обманут, заблуждается",
         "beispiels":[{"bei": "Dann sind sie wirklich verblendet.", "ueb": "Тогда ты серьезно заблуждаешься."}],
         "thema": "-"
-    }
+    },
+     {   "wort": "allmählich",
+        "wortart": "Nomen",
+        "artikel": "der",
+        "uebersetzung": "рост, восхождение",
+        "beispiels":[{"bei": "Als verschwände allmählich alles, was uns zu Menschen macht", "ueb": "Словно все то, что делает нас людьми, постепенно исчезает."},
+                     {"bei": "Zum Glück neigt sich das Zeitalter des Erdöls allmählich dem Ende zu.", "ueb": "К счастью, эпоха нефти постепенно подходит к концу."}],
+        "thema": "-"
+    },
+     {   "wort": "grausam",
+        "wortart": "Adjektiv",
+        "artikel": "-",
+        "uebersetzung": "жестокий",
+        "beispiels":[{"bei": "Er war besonders grausam zu kleinen, hilflosen und harmlosen Wesen.", "ueb": "Он был особенно жесток ко всему маленькому, к беззащитным и нежным существам."},
+                     {"bei": "Ja, die Natur kann grausam sein.", "ueb": "Да, природа может быть жестокой."}],
+        "thema": "-"
+    },
+        {"wort": "Wahn",
+        "wortart": "Nomen",
+        "artikel": "der",
+        "uebersetzung": "рост, восхождение",
+        "beispiels":[{"bei": "Und wenn sein labiler Geist erfordert, dass ich seinen Wahn toleriere, bis er Hilfe bekommt, tue ich es.", "ueb": "Но если для его психического здоровья нужно, чтобы я на время поверил в его бред, пока мы не окажем ему помощь, то я это сделаю."},
+                     {"bei": "Ich bin nicht derjenige, der all diese guten Männer davon überzeugt hat, ihre Leben für einen Traum zu opfern, einen Wahn.", "ueb": "Я не тот человек, что поведет этих славных мужей на смерть ради какой-то мечты, иллюзии."},
+                     {"bei": "Trotzdem ist Nordkoreas die Welt herausfordernde Kriegslüsternheit kein bloßer Wahn.", "ueb": "Однако нельзя сказать, что воинственность Северной Кореи, бросающей вызов всему миру, - полное безумие." }],
+        "thema": "-"
+    },
 ]
