@@ -4,15 +4,15 @@
         "artikel": "das",
         "uebersetzung": "судьба",
         "beispiels":[{"bei": "Apostel erwartet gewöhnlich das gleiche Schicksal wie die Märtyrer.", "ueb": "Апостолов, как правило, ожидает такая же участь, что и мучеников."},
-                     {"bei": "Meine Bestimmung, mein schicksal wurden mir ploetzlich offenbart.", "ueb": " Моё предназначение, моя судьба вдруг открылись мне."}],
+                     {"bei": "Meine Bestimmung, mein schicksal wurden mir ploetzlich offenbart.", "ueb": "Моё предназначение, моя судьба вдруг открылись мне."}],
         "thema": "-"
     },
     {    "wort": "Vorrang",
         "wortart": "Nomen",
         "artikel": "der",
         "uebersetzung": "приоритет",
-        "beispiels": [{"bei": "Sie will wissen, dass - seine Ehe für ihn von Vorrang ist.", "ueb": " kkk"},
-                      {"bei": "Akjhkj", "ueb": " kllllll"}],
+        "beispiels": [{"bei": "Sie will wissen, dass - seine Ehe für ihn von Vorrang ist.", "ueb": "Она хочет знать, что - его брак - приоритет для него."},
+                      {"bei": "Das Leben meiner Leute hatte Vorrang.", "ueb": "Я ставлю жизни членов моей команды на первое место."}],
         "thema": "-"   
     },
     {   "wort": "besheiden",
