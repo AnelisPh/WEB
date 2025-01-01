@@ -52,7 +52,7 @@
                      {"bei": "Zum Glück neigt sich das Zeitalter des Erdöls allmählich dem Ende zu.", "ueb": "К счастью, эпоха нефти постепенно подходит к концу."}],
         "thema": "-"
     },
-     {   "wort": "grausam",
+    {   "wort": "grausam",
         "wortart": "Adjektiv",
         "artikel": "-",
         "uebersetzung": "жестокий",
@@ -69,4 +69,11 @@
                      {"bei": "Trotzdem ist Nordkoreas die Welt herausfordernde Kriegslüsternheit kein bloßer Wahn.", "ueb": "Однако нельзя сказать, что воинственность Северной Кореи, бросающей вызов всему миру, - полное безумие." }],
         "thema": "-"
     },
+    {   "wort": "verleugnen",
+        "wortart": "Verb",
+        "artikel": "-",
+        "uebersetzung": "отрицать",
+        "beispiels":[{"bei": "Er war besonders grausam zu kleinen, hilflosen und harmlosen Wesen.", "ueb": "Он был особенно жесток ко всему маленькому, к беззащитным и нежным существам."},
+                     {"bei": "Ja, die Natur kann grausam sein.", "ueb": "Да, природа может быть жестокой."}],
+        "thema"
 ]
