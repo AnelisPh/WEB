@@ -45,9 +45,9 @@
         "thema": "-"
     },
      {   "wort": "allmählich",
-        "wortart": "Nomen",
-        "artikel": "der",
-        "uebersetzung": "рост, восхождение",
+        "wortart": "Adjectiv",
+        "artikel": "-",
+        "uebersetzung": "постепенно",
         "beispiels":[{"bei": "Als verschwände allmählich alles, was uns zu Menschen macht", "ueb": "Словно все то, что делает нас людьми, постепенно исчезает."},
                      {"bei": "Zum Glück neigt sich das Zeitalter des Erdöls allmählich dem Ende zu.", "ueb": "К счастью, эпоха нефти постепенно подходит к концу."}],
         "thema": "-"
@@ -63,7 +63,7 @@
         {"wort": "Wahn",
         "wortart": "Nomen",
         "artikel": "der",
-        "uebersetzung": "рост, восхождение",
+        "uebersetzung": "бред, безумие",
         "beispiels":[{"bei": "Und wenn sein labiler Geist erfordert, dass ich seinen Wahn toleriere, bis er Hilfe bekommt, tue ich es.", "ueb": "Но если для его психического здоровья нужно, чтобы я на время поверил в его бред, пока мы не окажем ему помощь, то я это сделаю."},
                      {"bei": "Ich bin nicht derjenige, der all diese guten Männer davon überzeugt hat, ihre Leben für einen Traum zu opfern, einen Wahn.", "ueb": "Я не тот человек, что поведет этих славных мужей на смерть ради какой-то мечты, иллюзии."},
                      {"bei": "Trotzdem ist Nordkoreas die Welt herausfordernde Kriegslüsternheit kein bloßer Wahn.", "ueb": "Однако нельзя сказать, что воинственность Северной Кореи, бросающей вызов всему миру, - полное безумие." }],
@@ -76,5 +76,41 @@
         "beispiels":[{"bei": "Er war besonders grausam zu kleinen, hilflosen und harmlosen Wesen.", "ueb": "Он был особенно жесток ко всему маленькому, к беззащитным и нежным существам."},
                      {"bei": "Ja, die Natur kann grausam sein.", "ueb": "Да, природа может быть жестокой."}],
         "thema": "-"
-    }
+    },
+    {   "wort": "betrachten",
+        "wortart": "Verb",
+        "artikel": "-",
+        "uebersetzung": "считать, смотреть на, рассматривать",
+        "beispiels":[{"bei": "Nun, betrachten Sie das als Ihre erste Lektion in der wirklichen Welt.", "ueb": "Ну, считай это первым уроком в реальном мире."},
+                     {"bei": "Um das zu tun, betrachten wir die Problematik aus jedem Blickwinkel.", "ueb": "Для этого, мы смотрим на проблему со всех сторон."}],
+        "thema": "-"
+    },
+    {"wort": "weitsichtig",
+        "wortart": "Adjectiv",
+        "artikel": "-",
+        "uebersetzung": "дальновидный, дальнозоркий, предусмотрительный смотреть на, рассматривать",
+        "beispiels":[{"bei": "McConnells Strategie ist normalerweise weitsichtig.", "ueb": "Как всегда, стратегия МакКоннелла была дальновидной."}],
+        "thema": "-"
+    },
+    {"wort": "entsprechen",
+        "wortart": "Verb",
+        "artikel": "-",
+        "uebersetzung": "соответствовать, отвечать, оправдать",
+        "beispiels":[{"bei": "Das Leben ist so müssen wir entsprechen und weitermachen, oder?", "ueb": "Жизнь такая, надо подчиниться и двигаться дальше, верно?"}],
+        "thema": "-"
+    },
+    {"wort": "vertreiben",
+        "wortart": "Verb",
+        "artikel": "-",
+        "uebersetzung": "изнать, вытеснить, сбыть",
+        "beispiels":[{"bei": "In den 1980er Jahren benötigten die USA Pakistans Hilfe, um die Sowjetunion aus Afghanistan zu vertreiben.", "ueb": "В 1980-х США хотели, чтобы Пакистан помог им изгнать Советский Союз из Афганистана."}],
+        "thema": "-"
+    },
+        {"wort": "Anhänger",
+        "wortart": "Nomen",
+        "artikel": "-",
+        "uebersetzung": "сторонник, брелок, прицеп",
+        "beispiels":[{"bei": "Dennoch findet das Gedankengut immer noch seine Anhänger.", "ueb": "Тем не менее и у этой теории есть свои сторонники."}],
+        "thema": "-"
+    },
 ]
