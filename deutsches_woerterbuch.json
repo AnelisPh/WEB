@@ -26,7 +26,7 @@
         "wortart": "Nomen",
         "artikel": "die",
         "uebersetzung": "тщеславие, высокомерие",
-        "beispiels":[{"bei": "-", "ueb": "-"}                     ],
+        "beispiels":[{"bei": "-", "ueb": "-"}],
         "thema": "-"
     },
     {   "wort": "Aufstieg",
@@ -106,7 +106,7 @@
         "beispiels":[{"bei": "In den 1980er Jahren benötigten die USA Pakistans Hilfe, um die Sowjetunion aus Afghanistan zu vertreiben.", "ueb": "В 1980-х США хотели, чтобы Пакистан помог им изгнать Советский Союз из Афганистана."}],
         "thema": "-"
     },
-        {"wort": "Anhänger",
+    {"wort": "Anhänger",
         "wortart": "Nomen",
         "artikel": "der",
         "uebersetzung": "сторонник, брелок, прицеп",
