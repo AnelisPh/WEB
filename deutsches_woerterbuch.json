@@ -108,9 +108,9 @@
     },
         {"wort": "Anhänger",
         "wortart": "Nomen",
-        "artikel": "-",
+        "artikel": "der",
         "uebersetzung": "сторонник, брелок, прицеп",
         "beispiels":[{"bei": "Dennoch findet das Gedankengut immer noch seine Anhänger.", "ueb": "Тем не менее и у этой теории есть свои сторонники."}],
         "thema": "-"
-    },
+    }
 ]
